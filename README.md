@@ -1,4 +1,4 @@
-# Developmental atlases of the ferret brain
+# Developmental templates of the ferret brain
 
 
 <p align="center">
